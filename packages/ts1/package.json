@@ -1,11 +1,11 @@
 {
-  "name": "@fremango-test/test1",
-  "version": "0.0.5",
+  "name": "@fremango-test/ts1",
+  "version": "0.0.0",
   "description": "> TODO: description",
   "author": "FreMaNgo <boping2010@gmail.com>",
   "homepage": "https://github.com/itcat99/fremango-lerna-test#readme",
   "license": "ISC",
-  "main": "index.js",
+  "main": "lib/ts1.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -22,6 +22,5 @@
   },
   "bugs": {
     "url": "https://github.com/itcat99/fremango-lerna-test/issues"
-  },
-  "gitHead": "8ae4c4bdc1861ef344f49d075d9a51b903b274e4"
+  }
 }
