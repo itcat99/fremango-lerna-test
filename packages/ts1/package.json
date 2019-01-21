@@ -6,6 +6,7 @@
   "homepage": "https://github.com/itcat99/fremango-lerna-test#readme",
   "license": "ISC",
   "main": "lib/ts1.js",
+  "access":"public",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
