@@ -13,9 +13,6 @@
   "files": [
     "lib"
   ],
-  "publishConfig": {
-    "registry": "https://registry.npm.taobao.org/"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/itcat99/fremango-lerna-test.git"
@@ -26,5 +23,5 @@
   "bugs": {
     "url": "https://github.com/itcat99/fremango-lerna-test/issues"
   },
-  "gitHead": "4d9ab740d9557785c61bec36dd64b37de7a2e895"
+  "gitHead": "e22dffee0c901aea811e9e9edd55aef66c5a664a"
 }
