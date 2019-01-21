@@ -6,7 +6,9 @@
   "homepage": "https://github.com/itcat99/fremango-lerna-test#readme",
   "license": "ISC",
   "main": "lib/ts1.js",
-  "access": "public",
+  "publishConfig": {
+    "access": "public"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -23,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/itcat99/fremango-lerna-test/issues"
-  }
+  },
+  "gitHead": "f357b912b1f5cfce00d66013db5e6833701e95f0"
 }
